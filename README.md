@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @JohBreezy
+- 👀 I’m interested in having fun while coding
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on nothing currently
+- 📫 How to reach me: Email me at joah.brackett05@gmail.com
+- ⚡ Fun fact: I have 10 toes
